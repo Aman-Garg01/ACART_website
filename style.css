@@ -107,11 +107,11 @@ body{
     transition: 0.3s ease;
 }
 #navbar li a:hover{
-    color:#0baba0 ;
+    color:#eb2f16ef ;
 }
 #navbar li a:hover, 
 #navbar li a.active{
-    color: #0baba0;
+    color: #eb2f16ef;
 }
 
 #navbar li a.active::after,
@@ -119,7 +119,7 @@ body{
     content: "";
     width: 30%;
     height: 2px;
-    background:#0baba0;
+    background:#eb2f16ef;
     position: absolute;
     bottom: -4px;
     left: 20px;
@@ -154,13 +154,13 @@ body{
 }
 
 #hero h1{
-    color: #0baba0;
+    color: #eb2f16ef;
 }
 
 #hero button{
     background-image: url(img/button.png);
     background-color: transparent;
-    color: #0baba0;
+    color: #eb2f16ef;
     border: 0;
     padding: 14px 80px 14px 65px;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@ body{
     padding: 9px 8px 6px 8px;
     line-height: 1;
     border-radius:4px ;
-    color: #0baba0;
+    color: #eb2f16ef;
     background-color: #fddde4;
 }
 
@@ -546,7 +546,7 @@ footer .copyright{
 
 #pagination a{
        text-decoration: none;
-       background-color: #0baba0;
+       background-color: #eb2f16ef;
        padding: 15px 20px;
        border-radius: 4px;
        color: #fff;
@@ -610,7 +610,7 @@ footer .copyright{
 }
 
 #prodetails .single-pro-details button{
-    background-color: #0baba0;
+    background-color: #eb2f16ef;
     color: #fff;
 }
 #prodetails .single-pro-details span{
@@ -668,10 +668,10 @@ footer .copyright{
    transition: 0.8s ease;
 } 
 #blog .blog-detail a:hover{
-    color: #0baba0;
+    color: #eb2f16ef;
 }
 #blog .blog-detail a:hover::after{
-    background-color: #0baba0;
+    background-color: #eb2f16ef;
 }
 #blog .blog-box h1{
     position: absolute;
@@ -796,7 +796,7 @@ footer .copyright{
 }
 
 #form-details form button{
-    background-color: #0baba0;
+    background-color: #eb2f16ef;
     color: #fff;
 }
 
