@@ -136,7 +136,7 @@ body{
 /* hero */
 
 #hero{
-    background-image: url(img/hero4.png);
+    background-image: url(hero.png);
     height: 90vh;
     width:100% ;
     background-size: cover;
@@ -146,6 +146,7 @@ body{
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+    background-color: #E3E6F3;
 
 }
 
