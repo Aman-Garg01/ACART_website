@@ -977,14 +977,14 @@ footer .copyright{
         padding: 10px 30px;
     }
     #hero h1{
-        font-size: 38px;
+        font-size: 20px;
     }
     #hero h2{
-        font-size: 32px;
+        font-size: 15px;
     }
     #hero{
         padding: 0 20px;
-        background-position: 55%;
+        background-position: 70%;
     }
     /* #feature{
         justify-content: space-between; 
