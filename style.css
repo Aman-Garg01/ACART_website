@@ -832,6 +832,30 @@ footer .copyright{
     color: #000;
 }
 
+/* Cart page */
+
+.listitem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    background-color: #aabbb3;
+}
+.pg{
+    margin: 20px;
+}
+.cs{
+    width: 100%;
+    margin: 10px;
+}
+.cs h4{
+
+    font-family: dank mono;
+}
+.ccart{
+    margin: 20px;
+}
 /* media query */
 
 @media (max-width:799px){
