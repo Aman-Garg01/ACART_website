@@ -836,7 +836,7 @@ footer .copyright{
 
 .listitem{
     display: flex;
-    flex-direction: column;
+    flex-flow: row wrap;
     align-items: center;
     justify-content: center;
     margin: 20px;
@@ -851,7 +851,32 @@ footer .copyright{
     font-family: dank mono;
 }
 .ccart{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: #f8f6f6;
+    background-color: #ff0404;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 1s;
     margin: 20px;
+
+}
+.ccart:hover{
+    border-radius: 18px;
+}
+
+.remove-btn{
+    background-color: transparent;
+    color: #000;
+    border: 1px solid #5c5a5a;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: dank mono;
 }
 /* media query */
 
